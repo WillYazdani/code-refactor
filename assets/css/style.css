@@ -17,6 +17,8 @@ p {
   font-size: 16px;
 }
 
+/*header style begin*/
+
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -51,6 +53,10 @@ header div ul li {
   margin-left: 25px;
 }
 
+/*header style end*/
+
+/*footer style begin*/
+
 footer {
   padding: 30px;
   clear: both;
@@ -63,6 +69,10 @@ footer h4 {
   font-size: 20px;
 }
 
+/*footer style end*/
+
+/*hero style begin*/
+
 .hero {
   height: 800px;
   width: 100%;
@@ -71,6 +81,10 @@ footer h4 {
   background-size: cover;
   background-position: center;
 }
+
+/*hero style end*/
+
+/*float style begin*/
 
 .float-left {
   float: left;
@@ -82,11 +96,17 @@ footer h4 {
   margin-left: 25px;
 }
 
+/*flot style end*/
+
+/*content style begin*/
+
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
+
+/*aside content begin*/
 
 .benefits {
   margin-right: 20px;
@@ -147,6 +167,10 @@ footer h4 {
   max-width: 150px;
 }
 
+/*aside style end*/
+
+/*article style begin*/
+
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -200,3 +224,7 @@ footer h4 {
   margin-bottom: 20px;
   font-size: 36px;
 }
+
+/*article style end*/
+
+/*content style end*/
